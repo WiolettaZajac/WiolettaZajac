@@ -53,15 +53,14 @@ This profile will continue to grow as I learn new tools and techniques.
 ---
 
 ## 🤝 Let's Connect
+<h2>🌐 Connect with Me</h2>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/wioletta-zajac-a3a98919b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p>
+  <a href="https://www.linkedin.com/in/wioletta-zajac-a3a98919b">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
-  
-  <a href="https://sites.google.com/view/wiolettazajac/home" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  &nbsp;
+  <a href="https://sites.google.com/view/wiolettazajac/home">
+    <img src="https://img.icons8.com/fluency/48/domain.png" height="50"/>
   </a>
 </p>
-
-Thanks for stopping by! Feel free to explore my projects, and don't hesitate to connect if you'd like to discuss data analytics, collaborate, or simply say hello.
