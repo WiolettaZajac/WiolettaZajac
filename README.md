@@ -2,6 +2,8 @@
 
 ## 📊 Aspiring Data Analyst | UK
 
+📍 **Bedfordshire, UK**
+
 Welcome to my GitHub!
 
 I'm an aspiring **Data Analyst** based in the **UK**, currently looking for my first opportunity in data. I recently completed a **Level 3 Data Technician Bootcamp**, where I developed practical skills in:
@@ -44,19 +46,22 @@ This profile will continue to grow as I learn new tools and techniques.
 
 ---
 
-## 🤝 Let's Connect
-
-Thanks for stopping by! Feel free to explore my projects, and don't hesitate to connect if you'd like to discuss data analytics, collaborate, or simply say hello.
-
----
-
-### 🛠️ Skills
+## 🛠️ Skills
 
 🐍 Python • 🗄️ SQL • 📊 Power BI • 📈 Tableau • 📋 Excel • 🐼 Pandas • 🔢 NumPy • 🌿 Git
 
+---
 
-### 🌐 Connect with Me
+## 🤝 Let's Connect
 
-![LinkedIn](www.linkedin.com/in/wioletta-zajac-a3a98919b)
+<p align="left">
+  <a href="https://www.linkedin.com/in/wioletta-zajac-a3a98919b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="https://sites.google.com/view/wiolettazajac/home" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-![Portfolio](https://sites.google.com/view/wiolettazajac/home)
+Thanks for stopping by! Feel free to explore my projects, and don't hesitate to connect if you'd like to discuss data analytics, collaborate, or simply say hello.
