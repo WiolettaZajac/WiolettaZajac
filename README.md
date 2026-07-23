@@ -58,3 +58,5 @@ Thanks for stopping by! Feel free to explore my projects, and don't hesitate to 
 ### 🌐 Connect with Me
 
 ![LinkedIn](www.linkedin.com/in/wioletta-zajac-a3a98919b)
+
+![Portfolio](https://sites.google.com/view/wiolettazajac/home)
