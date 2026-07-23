@@ -1,66 +1,85 @@
 # 👋 Hi, I'm Wiola
 
-## 📊 Aspiring Data Analyst | UK
+### 📊 Aspiring Data Analyst | 📍 Bedfordshire, UK
 
-📍 **Bedfordshire, UK**
+I'm an aspiring **Data Analyst** based in the UK, currently seeking my first opportunity in data analytics.
 
-Welcome to my GitHub!
-
-I'm an aspiring **Data Analyst** based in the **UK**, currently looking for my first opportunity in data. I recently completed a **Level 3 Data Technician Bootcamp**, where I developed practical skills in:
-
-- 🐍 Python
-- 🗄️ SQL
-- 📈 Power BI
-- 📊 Tableau
-- 📋 Excel
+After spending **10+ years at Caffè Nero**, progressing from **Barista to Coffee Shop Manager**, I discovered my passion for analysing sales, KPIs and business performance. That interest inspired me to complete a **Level 3 Data Technician Bootcamp**, where I gained hands-on experience with Python, SQL, Power BI, Tableau and Excel.
 
 ---
 
-## ☕ My Journey
+## 🚀 About Me
 
-Before transitioning into data, I spent **10+ years at Caffè Nero**, progressing from **Barista** to **Coffee Shop Manager**.
-
-One of the aspects of the role I enjoyed most was analysing **sales reports, KPIs, and business performance**. Turning numbers into meaningful insights sparked my interest in data analytics and inspired me to pursue a career in data.
-
----
-
-## 🚀 What You'll Find Here
-
-This GitHub showcases projects I've completed during my bootcamp and through self-study, including:
-
-- 🐍 Python data analysis
-- 🗄️ SQL queries and database projects
-- 📊 Interactive Power BI dashboards
-- 📈 Tableau visualisations
-- 📋 Excel analysis and reporting
-
-Each project has helped me strengthen my technical skills, improve my analytical thinking, and build confidence working with real-world datasets.
+- 🎓 Level 3 Data Technician Bootcamp Graduate
+- 📊 Passionate about turning data into actionable insights
+- 📈 Interested in Business Intelligence & Data Visualisation
+- 🌱 Currently building portfolio projects and expanding my SQL & Python skills
+- 💼 Looking for my first Data Analyst opportunity
 
 ---
 
-## 🌱 Currently Learning
+## 🛠️ Tech Stack
 
-I'm committed to continuous learning and regularly expanding my knowledge by building new projects, exploring different datasets, and developing my skills in data analytics.
-
-This profile will continue to grow as I learn new tools and techniques.
-
----
-
-## 🛠️ Skills
-
-🐍 Python • 🗄️ SQL • 📊 Power BI • 📈 Tableau • 📋 Excel • 🐼 Pandas • 🔢 NumPy • 🌿 Git
-
----
-
-## 🤝 Let's Connect
-<h2>🌐 Connect with Me</h2>
-
-<p>
-  <a href="https://www.linkedin.com/in/wioletta-zajac-a3a98919b">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-  </a>
-  &nbsp;
-  <a href="https://sites.google.com/view/wiolettazajac/home">
-    <img src="https://img.icons8.com/fluency/48/domain.png" height="50"/>
-  </a>
+<p align="left">
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/></a>
+<a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/></a>
+<a href="https://www.microsoft.com/en-gb/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="45"/></a>
+<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/power-bi.png" width="45"/></a>
+<a href="https://www.tableau.com/" target="_blank"><img src="https://img.icons8.com/color/48/tableau-software.png" width="45"/></a>
 </p>
+
+---
+
+## 📂 Featured Projects
+
+- 📊 Sales Dashboard (Power BI)
+- 🐍 Python Data Analysis
+- 🗄️ SQL Database Queries
+- 📈 Tableau Visualisations
+- 📋 Excel Reporting
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=wiolettazajac&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiolettazajac&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=wiolettazajac&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://github.com/wiolettazajac">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/wioletta-zajac-a3a98919b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://sites.google.com/view/wiolettazajac/home">
+<img src="https://img.shields.io/badge/Portfolio-34A853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+⭐ Thanks for visiting my profile!
