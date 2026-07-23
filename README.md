@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wioletta
+# 👋 Hi, I'm Wiola
 
 ## 📊 Aspiring Data Analyst | UK
 
