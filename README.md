@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Wioletta 👋
 
-<!--
-**WiolettaZajac/WiolettaZajac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!
 
-Here are some ideas to get you started:
+I'm an aspiring Data Analyst with a background in retail management. After more than 10 years leading teams and using sales data to improve business performance, I decided to transition into data analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here you'll find projects I've completed using:
+
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Power BI
+- 📈 Tableau
+- 📑 Excel
+
+I'm always learning and enjoy working with data to solve problems and create meaningful insights.
+
+### Current focus
+- 🌱 Building more Python projects
+- 📊 Developing interactive dashboards
+- 📚 Expanding my SQL skills
+
+### Get in touch
+- 💼 LinkedIn: www.linkedin.com/in/wioletta-zajac
+- 🌐 Portfolio: https://sites.google.com/view/wiolettazajac
