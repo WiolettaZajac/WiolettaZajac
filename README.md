@@ -53,14 +53,15 @@ After spending **10+ years at Caffè Nero**, progressing from **Barista to Coffe
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WiolettaZajac&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WiolettaZajac&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiolettaZajac&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiolettaZajac&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
+
 ---
 
 ## 🌐 Connect with Me
