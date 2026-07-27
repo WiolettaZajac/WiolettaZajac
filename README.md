@@ -2,7 +2,7 @@
 
 ### 📊 Aspiring Data Analyst | 📍 Bedfordshire, UK
 
-I'm an aspiring **Data Analyst** based in the UK, currently seeking my first opportunity in data analytics.
+I'm based in the UK and looking for my first role in data, business intelligence or analytics. I enjoy working with data to solve problems, uncover insights and support better business decisions.
 
 After spending **10+ years at Caffè Nero**, progressing from **Barista to Coffee Shop Manager**, I discovered my passion for analysing sales, KPIs and business performance. That interest inspired me to complete a **Level 3 Data Technician Bootcamp**, where I gained hands-on experience with Python, SQL, Power BI, Tableau and Excel.
 
