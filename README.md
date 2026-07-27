@@ -61,7 +61,6 @@ After spending **10+ years at Caffè Nero**, progressing from **Barista to Coffe
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiolettaZajac&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 🌐 Connect with Me
