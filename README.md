@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Wiola
 
-### 📊 Aspiring Data Analyst | 📍 Bedfordshire, UK
+###📊 Data Analytics | Business Intelligence | AI
 
-I'm based in the UK and looking for my first role in data, business intelligence or analytics. I enjoy working with data to solve problems, uncover insights and support better business decisions.
+I'm based in the UK and looking to start my career in data analytics, business intelligence or AI.
 
-I spent over 10 years at Caffè Nero, working my way up from Barista to Coffee Shop Manager. During that time, I found I enjoyed working with sales figures, KPIs and reports, which led me to explore data analytics. I completed a Level 3 Data Technician Bootcamp to build practical skills in SQL, Python, Power BI, Tableau and Excel.
+I spent over 10 years at #Caffè Nero, working my way up from Barista to Coffee Shop Manager. During that time, I found I enjoyed working with sales figures, KPIs and reports, which led me to explore data analytics. I completed a Level 3 Data Technician Bootcamp to build practical skills in SQL, Python, Power BI, Tableau and Excel.
 
 ---
 
