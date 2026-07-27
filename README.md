@@ -46,7 +46,7 @@ After spending **10+ years at Caffè Nero**, progressing from **Barista to Coffe
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=wiolettazajac)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wiolettazajac&show_icons=true&theme=tokyonight)
 
 ---
 
